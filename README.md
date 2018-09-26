@@ -1,6 +1,5 @@
-auction
-=======
+Auction prototype application
+=============================
+This is very simple auction application without UI.
 
-auction - C project
-
-network programming project
+This project was used for network programming subject.
